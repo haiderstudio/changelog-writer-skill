@@ -2,7 +2,7 @@
 
 Turn a git log and a release range into a Keep-a-Changelog entry — with no invented features.
 
-[![CI](https://github.com/hai02487/changelog-writer-skill/actions/workflows/ci.yml/badge.svg)](https://github.com/hai02487/changelog-writer-skill/actions/workflows/ci.yml) [![Licence: MIT](https://img.shields.io/badge/Licence-MIT-yellow.svg)](LICENSE)
+[![CI](https://github.com/haiderstudio/changelog-writer-skill/actions/workflows/ci.yml/badge.svg)](https://github.com/haiderstudio/changelog-writer-skill/actions/workflows/ci.yml) [![Licence: MIT](https://img.shields.io/badge/Licence-MIT-yellow.svg)](LICENSE)
 
 ## What it does
 
